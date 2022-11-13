@@ -1,2 +1,5 @@
-dorduncu  degisiklik(git conflict yapacegiz:-))k
+
+dorduncu  degisiklik(git conflict yapacegiz:-)
+ucuncui degisiklik(git conflict yapacegiz:-))k
+>>>>>>> dev
 
